@@ -1,0 +1,20 @@
+﻿生成启动时间为 2019/5/20 21:46:06。
+     1>项目“D:\代码\MyQQ\MyQQServer\MyQQServer\MyQQServer.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\科林明伦\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Debug\MyQQServer.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt TCPServer.cpp
+         TCPServer.cpp
+     1>TCPServer.cpp(195): warning C4101: “nPackSize”: 未引用的局部变量
+       Link:
+         D:\科林明伦\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\代码\MyQQ\MyQQServer\x64\Debug\MyQQServer.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\科林明伦\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\代码\MyQQ\MyQQServer\x64\Debug\MyQQServer.pdb" /SUBSYSTEM:WINDOWS /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\代码\MyQQ\MyQQServer\x64\Debug\MyQQServer.lib" /MACHINE:X64 x64\Debug\MyQQServer.res
+         x64\Debug\MyQQServer.obj
+         x64\Debug\MyQQServerDlg.obj
+         x64\Debug\MySql.obj
+         x64\Debug\stdafx.obj
+         x64\Debug\TCPMediator.obj
+         x64\Debug\TCPServer.obj
+         MyQQServer.vcxproj -> D:\代码\MyQQ\MyQQServer\x64\Debug\MyQQServer.exe
+     1>已完成生成项目“D:\代码\MyQQ\MyQQServer\MyQQServer\MyQQServer.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.24
